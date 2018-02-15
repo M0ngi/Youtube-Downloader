@@ -3,9 +3,9 @@ Python script to download Youtube videos with support of Playlist download. (Vid
 
 Credits to:
 
-    - Pyinstaller for building the executable file.
+  - Pyinstaller for building the executable file.
     
-    - PyQt4 for Graphical User Interface.
+  - PyQt4 for Graphical User Interface.
 
 Author: Mongi.
 
