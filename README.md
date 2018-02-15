@@ -6,4 +6,5 @@ Credits to
     - PyQt4 for Graphical User Interface.
 
 Author: Mongi.
+
 Contact: saidanemongi@gmail.com
