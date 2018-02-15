@@ -6,6 +6,8 @@ Requirements:
   - PyQt4
     
   - Pafy
+  
+  - requests
 
 
 Credits to:
