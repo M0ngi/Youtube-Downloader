@@ -3,5 +3,5 @@ Python script to download Youtube videos with support of Playlist download. (Vid
 
 Credits to Pyinstaller for building the executable file.
 
-Author: Mongi
+Author: Mongi\n
 Contact: saidanemongi@gmail.com
