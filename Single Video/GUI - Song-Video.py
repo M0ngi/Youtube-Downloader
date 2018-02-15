@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from PyQt4 import QtCore, QtGui
-import sys, pafy, os, time
+import sys, pafy, os
 
 # Variables ==================================================================================
 
