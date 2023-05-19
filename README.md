@@ -1,21 +1,12 @@
 # Youtube-Downloader
-Python script to download Youtube videos with support of Playlist download. (Video + Music)
+Python script to download Youtube videos with support of Playlist download.
 
 Requirements:
 
   - PyQt4
-    
   - Pafy
-  
   - requests
 
-
-Credits to:
-
-  - Pyinstaller for building the executable file.
-    
-  - PyQt4 for Graphical User Interface.
-
-Author: Mongi.
+Author: M0ngi.
 
 Contact: saidanemongi@gmail.com
